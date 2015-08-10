@@ -30,3 +30,37 @@ c:\users\chrisbriggs\documents\visual studio 2013\Projects\SuperPowersWeatherAPI
 c:\users\chrisbriggs\documents\visual studio 2013\Projects\SuperPowersWeatherAPI\SuperPowersWeatherAPI\obj\Debug\SuperPowersWeatherAPI.csprojResolveAssemblyReference.cache
 c:\users\chrisbriggs\documents\visual studio 2013\Projects\SuperPowersWeatherAPI\SuperPowersWeatherAPI\obj\Debug\SuperPowersWeatherAPI.dll
 c:\users\chrisbriggs\documents\visual studio 2013\Projects\SuperPowersWeatherAPI\SuperPowersWeatherAPI\obj\Debug\SuperPowersWeatherAPI.pdb
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\obj\Debug\SuperPowersWeatherAPI.csprojResolveAssemblyReference.cache
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\SuperPowersWeatherAPI.dll.config
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\SuperPowersWeatherAPI.dll
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\SuperPowersWeatherAPI.pdb
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\Antlr3.Runtime.dll
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\Newtonsoft.Json.dll
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\Swashbuckle.Core.dll
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\System.Web.Helpers.dll
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\System.Web.Http.dll
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\System.Web.Mvc.dll
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\System.Web.Razor.dll
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\System.Web.WebPages.dll
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\WebActivatorEx.dll
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\WebGrease.dll
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\Antlr3.Runtime.pdb
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\Newtonsoft.Json.xml
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\System.Web.Helpers.xml
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\System.Web.Http.xml
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\System.Web.Mvc.xml
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\System.Web.Razor.xml
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\System.Web.WebPages.xml
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\obj\Debug\SuperPowersWeatherAPI.dll
+C:\Users\chrisbriggs\Documents\GitHub\BneDotNet-Dev-superpowers-Jumping-into-Windows-IoT\SuperPowersWeatherAPI\SuperPowersWeatherAPI\obj\Debug\SuperPowersWeatherAPI.pdb
